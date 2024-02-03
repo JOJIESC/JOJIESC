@@ -33,10 +33,7 @@ fanOf: ['music', 'art', 'tech']
 ```
 
 ```JS
-const idiom = {
-    spanish: 'native',
-    english: 'intermediate'
-}
+console.log(JOJIESC)
 ```
 
 
