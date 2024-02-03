@@ -10,7 +10,7 @@
   <a href="www.linkedin.com/in/jorge-andres-escobar-torres-4125552b2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="jescobart.sd@gmail.com" target="_blank">
+  <a href="mailto: jescobart.sd@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="JOJIZX" target="_blank">
