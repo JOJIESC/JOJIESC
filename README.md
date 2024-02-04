@@ -5,8 +5,9 @@
 src="https://img.shields.io/github/followers/JOJIESC?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
 - 🔭 I’m currently working on **a project management web app**
-- 🌱 I’m currently learning **Next js, React, javascript,python**
+- 🌱 I’m currently learning **Next js, React, javascript,python,c++**
 - 📫 How to reach me: **jescobart@gmail.com**
+- 👨‍💻 Member of Develop Center at Univiersidad Autónoma de Querétaro. 
 ### Socials:
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jescobart.sd@gmail.com)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorgezcobar)
