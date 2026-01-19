@@ -42,6 +42,3 @@ fanOf: ['music', 'art', 'tech']
 ### OS:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-<a href="http://www.github.com/JOJIESC"><img src="https://github-readme-stats.vercel.app/api?username=JOJIESC&show_icons=true&hide=prs,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="JOJIESC's GitHub stats" /></a>
-
-<a href="https://github.com/JOJIESC" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOJIESC&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
