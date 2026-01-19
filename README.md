@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/JOJIESC?logo=github&style=for-the-b
 ```JS
 const JOJIESC = {
 name : 'Jorge Andres Escobar Torres',
-age: 22,
+age: 24,
 hobbies: ['Video Games', 'Drawing','Learn new Things'],
 idioms: ['Spanish:Native','English:Intermediate'],
 fanOf: ['music', 'art', 'tech']
